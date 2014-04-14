@@ -1,5 +1,5 @@
 ---
-layout: gallery-item
+layout: apps-item
 category: apps
 permalink: /apps/art4europe
 title: Art4Europe

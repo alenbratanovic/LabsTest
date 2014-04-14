@@ -1,5 +1,5 @@
 ---
-layout: gallery-item
+layout: apps-item
 category: apps
 permalink: /apps/storyana
 title: Storyana
