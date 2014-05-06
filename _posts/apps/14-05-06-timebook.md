@@ -6,9 +6,7 @@ title: Timebook
 imageurl:
   - /img/apps/Timebook/timebook.fw.png
 tags:
-  - 
 links:
-  - 
 ---
 
 Timebook is an aggregator of information coming from DBPedia, Wikiquote and Europeana about personalities of the past (in particular composers, painters, writers or artists in general). It formats the information in the form of a Facebook-like profile, creating a social network of artists by looking at the influences in each other's works.

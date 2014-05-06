@@ -6,7 +6,6 @@ title: Storyana
 imageurl:
   - /img/apps/Storyana/storyana.fw.png
 tags:
-  - 
 links:
   - http://paths.sheffield.ac.uk/storyana
 ---

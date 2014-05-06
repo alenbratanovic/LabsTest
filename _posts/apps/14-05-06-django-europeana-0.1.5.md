@@ -6,7 +6,6 @@ title: Django Europeana 0.1.5
 imageurl:
   - /img/apps/django-europeana/Phyton_Django.jpg
 tags:
-  - 
 links:
   - https://pypi.python.org/pypi/django-europeana 
   - 

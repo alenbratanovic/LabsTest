@@ -6,9 +6,7 @@ title: Art Seeker
 imageurl:
   - /img/apps/Art%20Seeker/art_seeker.fw.png
 tags:
-  - 
 links:
-  - 
 ---
 
 The prototype is a mobile application for art discovery.

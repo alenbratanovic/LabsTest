@@ -7,7 +7,6 @@ imageurl:
   - /img/apps/wandora-europeana-extractor/Wandora.png
   - /img/apps/wandora-europeana-extractor/Wandora_2.png
 tags:
-  - 
 links:
   - http://www.wandora.org/wiki/Download
 ---

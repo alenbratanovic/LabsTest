@@ -6,9 +6,7 @@ title: Hackmemory
 imageurl:
   - /img/apps/Hackmemory/hackmemory.fw.png
 tags:
-  - 
 links:
-  - 
 ---
 
 A simple educational application for kids and adults based on well-known memory games.

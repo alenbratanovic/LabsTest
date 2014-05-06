@@ -7,7 +7,6 @@ imageurl:
   - /img/apps/pionier/PIONIER.jpg
   - /img/apps/pionier/PIONIER_2.jpg
 tags:
-  - 
 links:
   - http://fbc.pionier.net.pl/owoc/results?query=chopin&action=DistributedSearchAction
 ---

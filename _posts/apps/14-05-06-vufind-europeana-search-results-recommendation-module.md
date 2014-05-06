@@ -7,7 +7,6 @@ imageurl:
   - /img/apps/vufind/Vufind.jpg
   - /img/apps/vufind/Vufind_2.jpg
 tags:
-  - 
 links:
   - http://vufind.org/
   - 

@@ -7,7 +7,6 @@ imageurl:
   - /img/apps/open-pics-app/Open_pics_app.jpg
   - /img/apps/open-pics-app/Open_pics_app_2.jpg
 tags:
-  - 
 links:
   - https://itunes.apple.com/us/app/openpics/id633423505?mt=8
   - 

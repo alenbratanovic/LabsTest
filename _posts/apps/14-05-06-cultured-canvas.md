@@ -6,9 +6,7 @@ title: Cultured Canvas
 imageurl:
   - /img/apps/Cultured%20Canvas/cultured_canvas.fw.png
 tags:
-  - 
 links:
-  - 
 ---
 
 Winner in the category 'Most innovative app.' Cultured Culture is an easy way to promote culture to a user's Twitter followers.

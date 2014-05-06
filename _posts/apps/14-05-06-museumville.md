@@ -6,7 +6,6 @@ title: MuseumVille
 imageurl:
   - /img/apps/MuseumVille/museumVille.png
 tags:
-  - 
 links:
   - http://www.youtube.com/watch?v=HySnGLJgG6g&feature=youtu.be
   - 

@@ -6,9 +6,7 @@ title: Visual Chronology
 imageurl:
   - /img/apps/Visual%20Chronology/Visual%20Chronology.png
 tags:
-  - 
 links:
-  - 
 ---
 
 Visual Chronology is a sketch displaying Europeana search results on a timeline. At the bottom of the screen, years are represented by dots.

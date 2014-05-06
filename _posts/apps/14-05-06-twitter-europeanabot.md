@@ -6,7 +6,6 @@ title: Twitter EuropeanaBot
 imageurl:
   - /img/apps/twitter-europeanabot/Twitterbot.png
 tags:
-  - 
 links:
   - https://twitter.com/EuropeanaBot
   - 

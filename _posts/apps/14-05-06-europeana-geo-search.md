@@ -7,7 +7,6 @@ imageurl:
   - /img/apps/Europeana%20Geo%20Search/Europeana%20Geo%20Search.jpg
   - 
 tags:
-  - 
 links:
   - http://amercader.net/dev/geoeuropeana/
   - 

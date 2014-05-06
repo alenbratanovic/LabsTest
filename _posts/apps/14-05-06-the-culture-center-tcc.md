@@ -6,7 +6,6 @@ title: The Culture Center (TCC)
 imageurl:
   - /img/apps/The%20Culture%20Center%20(TCC)/TCC.fw.png
 tags:
-  - 
 links:
   - https://build.phonegap.com/apps/126690
   - 

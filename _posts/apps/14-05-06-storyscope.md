@@ -6,9 +6,7 @@ title: Storyscope
 imageurl:
   - /img/apps/Storyscope/storyscope.jpg
 tags:
-  - 
 links:
-  - 
 ---
 
 The software includes an attractive visual interface that allows users to not only collect and arrange online objects, but to shape these collections into compelling narratives.

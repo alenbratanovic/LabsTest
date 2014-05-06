@@ -6,7 +6,6 @@ title: Art4Europe
 imageurl:
   - /img/apps/Art4Europe/art4europe.jpg
 tags:
-  - 
 links:
   - http://www.youtube.com/watch?v=C6PEz2d7OLE
   - 

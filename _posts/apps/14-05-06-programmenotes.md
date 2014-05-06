@@ -6,7 +6,6 @@ title: ProgrammeNotes
 imageurl:
   - /img/apps/ProgrammeNotes/programmenotes.fw.png
 tags:
-  - 
 links:
   - http://popcorn.webmadecontent.org/je9
 ---

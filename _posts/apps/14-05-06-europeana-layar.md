@@ -6,7 +6,6 @@ title: Europeana Layar
 imageurl:
   - /img/apps/Europeana%20Layar/Europeana%20Layar.png
 tags:
-  - 
 links:
   - https://code.google.com/p/porpoise/
 ---

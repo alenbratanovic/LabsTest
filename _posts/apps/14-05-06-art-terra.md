@@ -6,9 +6,7 @@ title: Art Terra
 imageurl:
   - /img/apps/Art%20Terra/art_terra.fw%20(1).png
 tags:
-  - 
 links:
-  - 
 ---
 
 Winner in the category 'Social inclusion.'

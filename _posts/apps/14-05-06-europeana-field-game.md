@@ -6,9 +6,7 @@ title: Europeana Field Game
 imageurl:
   - /img/apps/Europeana%20Field%20Game/europeana_field_game.fw.png
 tags:
-  - 
 links:
-  - 
 ---
 
 Winner in the category 'Most innovative app'

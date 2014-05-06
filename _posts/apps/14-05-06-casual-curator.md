@@ -6,9 +6,7 @@ title: Casual Curator
 imageurl:
   - /img/apps/Casual%20Curator/casual_curator.jpg
 tags:
-  - 
 links:
-  - 
 ---
 
 Winner in the category 'Social Inclusion'. Finalist at the Digital Agenda Assembly, June 2011, Brussels.

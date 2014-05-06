@@ -6,9 +6,7 @@ title: myHometo.wn
 imageurl:
   - /img/apps/myHometo.wn/myHometo.wn.jpg
 tags:
-  - 
 links:
-  - 
 ---
 
 myHometo.wn can be likened to a public genealogy for all cities across a country.

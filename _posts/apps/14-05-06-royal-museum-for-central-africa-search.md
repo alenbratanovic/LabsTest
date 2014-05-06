@@ -8,7 +8,6 @@ imageurl:
   - /img/apps/royal-museum-for-central-africa-search/AMCA_2.jpg
   - /img/apps/royal-museum-for-central-africa-search/AMCA_3.jpg
 tags:
-  - 
 links:
   - http://www.africamuseum.be/collections/browsecollections/europeana
 ---

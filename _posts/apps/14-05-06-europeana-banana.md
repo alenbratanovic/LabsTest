@@ -8,7 +8,6 @@ imageurl:
 tags:
   - Enrichting metadata
 links:
-  - 
 ---
 
 Semantic enrichment game
