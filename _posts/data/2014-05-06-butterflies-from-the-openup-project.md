@@ -15,4 +15,7 @@ tags:
   - Natural History
 
 licenses:
-dataset: 11622copyright: Creative Commons Attribution - Share Alikecopyrighturl: http://creativecommons.org/licenses/by-sa/3.0/---
+dataset: 11622
+copyright: Creative Commons Attribution - Share Alike
+copyrighturl: http://creativecommons.org/licenses/by-sa/3.0/
+---

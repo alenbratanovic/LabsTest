@@ -15,4 +15,7 @@ tags:
   - Art
 
 licenses:
-dataset: 2023831copyright: Creative Commons Public Domain Markcopyrighturl: http://creativecommons.org/publicdomain/mark/1.0/---
+dataset: 2023831
+copyright: Creative Commons Public Domain Mark
+copyrighturl: http://creativecommons.org/publicdomain/mark/1.0/
+---

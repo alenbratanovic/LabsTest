@@ -15,4 +15,7 @@ tags:
   - History
 
 licenses:
-dataset: 92062copyright: Creative Commons Public Domain Markcopyrighturl: http://creativecommons.org/publicdomain/mark/1.0/---
+dataset: 92062
+copyright: Creative Commons Public Domain Mark
+copyrighturl: http://creativecommons.org/publicdomain/mark/1.0/
+---

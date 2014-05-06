@@ -15,4 +15,7 @@ tags:
   - First World War
 
 licenses:
-dataset: 9200231copyright: Creative Commons Public Domain Markcopyrighturl: http://creativecommons.org/publicdomain/mark/1.0/---
+dataset: 9200231
+copyright: Creative Commons Public Domain Mark
+copyrighturl: http://creativecommons.org/publicdomain/mark/1.0/
+---

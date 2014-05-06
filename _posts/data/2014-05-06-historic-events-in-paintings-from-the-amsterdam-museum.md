@@ -15,4 +15,7 @@ tags:
   - Art
 
 licenses:
-dataset: 2021608copyright: Creative Commons Attributioncopyrighturl: http://creativecommons.org/licenses/by/3.0/---
+dataset: 2021608
+copyright: Creative Commons Attribution
+copyrighturl: http://creativecommons.org/licenses/by/3.0/
+---

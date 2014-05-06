@@ -15,4 +15,7 @@ tags:
   - Art
 
 licenses:
-dataset: 90402copyright: Creative Commons Public Domain Markcopyrighturl: http://creativecommons.org/publicdomain/mark/1.0/---
+dataset: 90402
+copyright: Creative Commons Public Domain Mark
+copyrighturl: http://creativecommons.org/publicdomain/mark/1.0/
+---
