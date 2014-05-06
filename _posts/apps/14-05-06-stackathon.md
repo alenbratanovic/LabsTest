@@ -4,7 +4,7 @@ category: apps
 permalink: /apps/stackathon
 title: Stackathon
 imageurl:
-  - /img/apps/Stackathon/stackathon.fw.png
+  - "/img/apps/Stackathon/stackathon.fw.png"
 tags:
 links:
   - http://artspot.eu/stackathon

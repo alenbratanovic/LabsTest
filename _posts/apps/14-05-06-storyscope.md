@@ -4,7 +4,7 @@ category: apps
 permalink: /apps/storyscope
 title: Storyscope
 imageurl:
-  - /img/apps/Storyscope/storyscope.jpg
+  - "/img/apps/Storyscope/storyscope.jpg"
 tags:
 links:
 ---

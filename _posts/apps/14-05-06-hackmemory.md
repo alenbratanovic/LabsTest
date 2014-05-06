@@ -4,7 +4,7 @@ category: apps
 permalink: /apps/hackmemory
 title: Hackmemory
 imageurl:
-  - /img/apps/Hackmemory/hackmemory.fw.png
+  - "/img/apps/Hackmemory/hackmemory.fw.png"
 tags:
 links:
 ---

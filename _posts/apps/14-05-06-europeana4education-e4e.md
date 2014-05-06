@@ -4,7 +4,7 @@ category: apps
 permalink: /apps/europeana4education-e4e
 title: Europeana4Education (E4E)
 imageurl:
-  - /img/apps/Europeana4Education%20(E4E)/Europeana4Education.png
+  - "/img/apps/Europeana4Education%20(E4E)/Europeana4Education.png"
 tags:
 links:
 ---

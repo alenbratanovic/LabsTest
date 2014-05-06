@@ -4,7 +4,7 @@ category: apps
 permalink: /apps/culture-globe
 title: Culture Globe
 imageurl:
-  - /img/apps/Culture%20Globe/culture_globe.jpg
+  - "/img/apps/Culture%20Globe/culture_globe.jpg"
 tags:
 links:
   - http://cultureglobe.de/

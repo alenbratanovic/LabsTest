@@ -4,7 +4,7 @@ category: apps
 permalink: /apps/europeana-banana
 title: Europeana Banana
 imageurl:
-  - /img/apps/Europeana%20Banana/Europeana%20banana.fw.png
+  - "/img/apps/Europeana%20Banana/Europeana%20banana.fw.png"
 tags:
   - Enrichting metadata
 links:

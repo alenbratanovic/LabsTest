@@ -4,7 +4,7 @@ category: apps
 permalink: /apps/cultured-canvas
 title: Cultured Canvas 
 imageurl:
-  - /img/apps/Cultured%20Canvas/cultured_canvas.fw.png
+  - "/img/apps/Cultured%20Canvas/cultured_canvas.fw.png"
 tags:
 links:
 ---

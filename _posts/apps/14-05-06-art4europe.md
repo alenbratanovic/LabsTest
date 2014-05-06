@@ -4,7 +4,7 @@ category: apps
 permalink: /apps/art4europe
 title: Art4Europe
 imageurl:
-  - /img/apps/Art4Europe/art4europe.jpg
+  - "/img/apps/Art4Europe/art4europe.jpg"
 tags:
 links:
   - http://www.youtube.com/watch?v=C6PEz2d7OLE

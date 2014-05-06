@@ -4,9 +4,9 @@ category: apps
 permalink: /apps/national-library-of-new-zealand
 title: National Library of New Zealand
 imageurl:
-  - /img/apps/national-library-of-new-zealand/National_Library_of_New_Zealand.png
-  - /img/apps/national-library-of-new-zealand/National_Library_of_New_Zealand_2.png
-  - /img/apps/national-library-of-new-zealand/National_Library_of_New_Zealand_3.png
+  - "/img/apps/national-library-of-new-zealand/National_Library_of_New_Zealand.png"
+  - "/img/apps/national-library-of-new-zealand/National_Library_of_New_Zealand_2.png"
+  - "/img/apps/national-library-of-new-zealand/National_Library_of_New_Zealand_3.png"
 tags:
 links:
   - http://digitalnz.org/

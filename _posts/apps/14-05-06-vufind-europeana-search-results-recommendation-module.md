@@ -4,8 +4,8 @@ category: apps
 permalink: /apps/vufind-europeana-search-results-recommendation-module
 title: VuFind Europeana search results recommendation module
 imageurl:
-  - /img/apps/vufind/Vufind.jpg
-  - /img/apps/vufind/Vufind_2.jpg
+  - "/img/apps/vufind/Vufind.jpg"
+  - "/img/apps/vufind/Vufind_2.jpg"
 tags:
 links:
   - http://vufind.org/

@@ -4,7 +4,7 @@ category: apps
 permalink: /apps/wikiana
 title: Wikiana
 imageurl:
-  - /img/apps/Wikiana/wikiana.jpg
+  - "/img/apps/Wikiana/wikiana.jpg"
 tags:
 links:
   - http://paths.sheffield.ac.uk/storyana/  (redeveloped as Storyana at a later hackathon)

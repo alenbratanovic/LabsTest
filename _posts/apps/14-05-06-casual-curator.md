@@ -4,7 +4,7 @@ category: apps
 permalink: /apps/casual-curator
 title: Casual Curator
 imageurl:
-  - /img/apps/Casual%20Curator/casual_curator.jpg
+  - "/img/apps/Casual%20Curator/casual_curator.jpg"
 tags:
 links:
 ---

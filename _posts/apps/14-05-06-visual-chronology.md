@@ -4,7 +4,7 @@ category: apps
 permalink: /apps/visual-chronology
 title: Visual Chronology
 imageurl:
-  - /img/apps/Visual%20Chronology/Visual%20Chronology.png
+  - "/img/apps/Visual%20Chronology/Visual%20Chronology.png"
 tags:
 links:
 ---

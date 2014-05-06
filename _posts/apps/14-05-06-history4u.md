@@ -4,7 +4,7 @@ category: apps
 permalink: /apps/history4u
 title: History4u
 imageurl:
-  - /img/apps/History4u/history4u.fw.png
+  - "/img/apps/History4u/history4u.fw.png"
 tags:
 links:
   - https://docs.google.com/presentation/d/1nazn94YZjsk1SUsGVkE40grYw9plV5Mmqu791ionnSE/edit#slide=id.p13

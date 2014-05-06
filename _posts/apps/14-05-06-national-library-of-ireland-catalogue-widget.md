@@ -4,9 +4,9 @@ category: apps
 permalink: /apps/national-library-of-ireland-catalogue-widget
 title: National Library of Ireland catalogue widget
 imageurl:
-  - /img/apps/national-library-of-ireland-catalogue-widget/National_Library_of_Ireland.jpg
-  - /img/apps/national-library-of-ireland-catalogue-widget/National_Library_of_Ireland_2.jpg
-  - /img/apps/national-library-of-ireland-catalogue-widget/National_Library_of_Ireland_3.jpg
+  - "/img/apps/national-library-of-ireland-catalogue-widget/National_Library_of_Ireland.jpg"
+  - "/img/apps/national-library-of-ireland-catalogue-widget/National_Library_of_Ireland_2.jpg"
+  - "/img/apps/national-library-of-ireland-catalogue-widget/National_Library_of_Ireland_3.jpg"
 tags:
 links:
   - http://catalogue.nli.ie/Search/Results?lookfor=aran+islands&type=AllFields&filter[]=digitised%3A%22Digitised%22&view=grid

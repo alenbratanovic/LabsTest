@@ -4,7 +4,7 @@ category: apps
 permalink: /apps/artspace
 title: ArtSpace
 imageurl:
-  - /img/apps/ArtSpace/artspace.fw.png
+  - "/img/apps/ArtSpace/artspace.fw.png"
 tags:
 links:
   - http://www.artspace.deseostudio.com/

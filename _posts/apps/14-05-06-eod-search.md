@@ -4,8 +4,8 @@ category: apps
 permalink: /apps/eod-search
 title: EOD search
 imageurl:
-  - /img/apps/eod-search/EOD.jpg
-  - /img/apps/eod-search/EOD_2.jpg
+  - "/img/apps/eod-search/EOD.jpg"
+  - "/img/apps/eod-search/EOD_2.jpg"
 tags:
 links:
   - http://search.books2ebooks.eu/Record/vkol_vkol000457366

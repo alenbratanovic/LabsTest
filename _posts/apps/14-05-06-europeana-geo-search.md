@@ -4,8 +4,8 @@ category: apps
 permalink: /apps/europeana-geo-search
 title: Europeana Geo Search
 imageurl:
-  - /img/apps/Europeana%20Geo%20Search/Europeana%20Geo%20Search.jpg
-  - 
+  - "/img/apps/Europeana%20Geo%20Search/Europeana%20Geo%20Search.jpg"
+  - ""
 tags:
 links:
   - http://amercader.net/dev/geoeuropeana/

@@ -4,7 +4,7 @@ category: apps
 permalink: /apps/related-items-widget
 title: Related items widget
 imageurl:
-  - /img/apps/related-items-widget/Related_items_widget.jpg
+  - "/img/apps/related-items-widget/Related_items_widget.jpg"
 tags:
 links:
   - http://www.wbc.poznan.pl/dlibra/docmetadata?id=1382&from=pubstats

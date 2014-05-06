@@ -4,7 +4,7 @@ category: apps
 permalink: /apps/twitter-europeanabot
 title: Twitter EuropeanaBot
 imageurl:
-  - /img/apps/twitter-europeanabot/Twitterbot.png
+  - "/img/apps/twitter-europeanabot/Twitterbot.png"
 tags:
 links:
   - https://twitter.com/EuropeanaBot

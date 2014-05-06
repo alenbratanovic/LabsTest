@@ -4,8 +4,8 @@ category: apps
 permalink: /apps/dismarc
 title: DISMARC
 imageurl:
-  - /img/apps/dismarc/DISMARC.jpg
-  - /img/apps/dismarc/DISMARC_2.gif
+  - "/img/apps/dismarc/DISMARC.jpg"
+  - "/img/apps/dismarc/DISMARC_2.gif"
 tags:
 links:
   - http://www.dismarc.org/

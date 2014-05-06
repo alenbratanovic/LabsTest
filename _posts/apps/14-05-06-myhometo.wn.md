@@ -4,7 +4,7 @@ category: apps
 permalink: /apps/myhometo.wn
 title: myHometo.wn
 imageurl:
-  - /img/apps/myHometo.wn/myHometo.wn.jpg
+  - "/img/apps/myHometo.wn/myHometo.wn.jpg"
 tags:
 links:
 ---

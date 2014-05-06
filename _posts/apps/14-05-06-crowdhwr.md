@@ -4,7 +4,7 @@ category: apps
 permalink: /apps/crowdhwr
 title: Crowdhwr
 imageurl:
-  - /img/apps/Crowdhwr/crowdhwr.jpg
+  - "/img/apps/Crowdhwr/crowdhwr.jpg"
 tags:
 links:
   - http://rankrasciai.atviriduomenys.lt/word/1/ 

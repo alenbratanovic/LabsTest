@@ -4,7 +4,7 @@ category: apps
 permalink: /apps/art-seeker
 title: Art Seeker
 imageurl:
-  - /img/apps/Art%20Seeker/art_seeker.fw.png
+  - "/img/apps/Art%20Seeker/art_seeker.fw.png"
 tags:
 links:
 ---

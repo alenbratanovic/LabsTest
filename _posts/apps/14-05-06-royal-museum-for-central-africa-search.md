@@ -4,9 +4,9 @@ category: apps
 permalink: /apps/royal-museum-for-central-africa-search
 title: Royal Museum for Central Africa search
 imageurl:
-  - /img/apps/royal-museum-for-central-africa-search/AMCA.jpg
-  - /img/apps/royal-museum-for-central-africa-search/AMCA_2.jpg
-  - /img/apps/royal-museum-for-central-africa-search/AMCA_3.jpg
+  - "/img/apps/royal-museum-for-central-africa-search/AMCA.jpg"
+  - "/img/apps/royal-museum-for-central-africa-search/AMCA_2.jpg"
+  - "/img/apps/royal-museum-for-central-africa-search/AMCA_3.jpg"
 tags:
 links:
   - http://www.africamuseum.be/collections/browsecollections/europeana
