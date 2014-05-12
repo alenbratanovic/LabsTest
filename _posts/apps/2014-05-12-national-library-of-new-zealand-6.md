@@ -8,7 +8,8 @@ imageurl:
   - "/img/apps/national-library-of-new-zealand/National_Library_of_New_Zealand_2.png"
   - "/img/apps/national-library-of-new-zealand/National_Library_of_New_Zealand_3.png"
 tags:
-  - API Implementation; Search
+  - API Implementation
+  - Search
 links:
   - http://digitalnz.org/
 ---

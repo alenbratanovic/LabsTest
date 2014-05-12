@@ -6,7 +6,9 @@ title: Europeana4Education (E4E)
 imageurl:
   - "/img/apps/Europeana4Education%20(E4E)/Europeana4Education.png"
 tags:
-  - Hackathon Prototype; Education; CMS plugin
+  - Hackathon Prototype
+  - Education
+  - CMS plugin
 links:
 ---
 

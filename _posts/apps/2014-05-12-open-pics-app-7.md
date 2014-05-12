@@ -7,7 +7,10 @@ imageurl:
   - "/img/apps/open-pics-app/Open_pics_app.jpg"
   - "/img/apps/open-pics-app/Open_pics_app_2.jpg"
 tags:
-  - API Implementation; Mobile; Tablet; Geolocation
+  - API Implementation
+  - Mobile
+  - Tablet
+  - Geolocation
 links:
   - https://itunes.apple.com/us/app/openpics/id633423505?mt=8
   - https://github.com/pj4533/OpenPics

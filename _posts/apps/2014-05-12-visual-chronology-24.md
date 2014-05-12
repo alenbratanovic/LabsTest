@@ -6,7 +6,9 @@ title: Visual Chronology
 imageurl:
   - "/img/apps/Visual%20Chronology/Visual%20Chronology.png"
 tags:
-  - Hackathon Prototype; API Implementation; Visualisation
+  - Hackathon Prototype
+  - API Implementation
+  - Visualisation
 links:
 ---
 

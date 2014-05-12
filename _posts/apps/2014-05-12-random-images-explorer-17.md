@@ -6,7 +6,8 @@ title: Random Images Explorer
 imageurl:
   - "/img/apps/Random%20Images%20Explorer/random_images_explorer.fw.png"
 tags:
-  - Hackathon Prototype; Enriching metadata
+  - Hackathon Prototype
+  - Enriching metadata
 links:
 ---
 

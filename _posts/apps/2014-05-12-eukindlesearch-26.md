@@ -6,7 +6,9 @@ title: eu:KindleSearch
 imageurl:
   - "/img/apps/euKindleSearch/kindle_search.fw.png"
 tags:
-  - Hackathon Prototype; Search; Mobile
+  - Hackathon Prototype
+  - Search
+  - Mobile
 links:
   - http://europeana.culturegridne.com/euKindleSearch_results.mobi
 ---

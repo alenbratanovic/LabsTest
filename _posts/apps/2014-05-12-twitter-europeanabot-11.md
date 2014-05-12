@@ -6,7 +6,8 @@ title: Twitter EuropeanaBot
 imageurl:
   - "/img/apps/twitter-europeanabot/Twitterbot.png"
 tags:
-  - API Implementation; Social media
+  - API Implementation
+  - Social media
 links:
   - https://twitter.com/EuropeanaBot
   - https://github.com/hatorikibble/twitter-europeanabot

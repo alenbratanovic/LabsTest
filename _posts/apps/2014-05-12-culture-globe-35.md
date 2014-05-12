@@ -6,7 +6,9 @@ title: Culture Globe
 imageurl:
   - "/img/apps/Culture%20Globe/culture_globe.jpg"
 tags:
-  - Hackathon Prototype; Geolocation; 3D
+  - Hackathon Prototype
+  - Geolocation
+  - 3D
 links:
   - http://cultureglobe.de/
   - http://www.youtube.com/watch?v=H_2pOU1FO6k

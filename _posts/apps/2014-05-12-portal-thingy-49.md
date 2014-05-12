@@ -6,7 +6,9 @@ title: Portal Thingy
 imageurl:
   - "/img/apps/Portal%20Thingy/portal_thingy.fw.png"
 tags:
-  - Hackathon Prototype; Annotations; Search
+  - Hackathon Prototype
+  - Annotations
+  - Search
 links:
   - http://hack4europe.kbresearch.nl/
 ---

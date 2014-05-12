@@ -6,7 +6,9 @@ title: Europeana Field Game
 imageurl:
   - "/img/apps/Europeana%20Field%20Game/europeana_field_game.fw.png"
 tags:
-  - Hackathon Prototype; Game; Geolocation
+  - Hackathon Prototype
+  - Game
+  - Geolocation
 links:
 ---
 

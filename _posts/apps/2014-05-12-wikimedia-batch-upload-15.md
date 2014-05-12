@@ -6,7 +6,8 @@ title: Wikimedia Batch Upload
 imageurl:
   - "/img/apps/Wikimedia%20Batch%20Upload/wikimedia_batch_upload.png"
 tags:
-  - Hackathon Prototype; Rich media
+  - Hackathon Prototype
+  - Rich media
 links:
   - http://commons.wikimedia.org/wiki/Category:Images_from_Europeana
 ---

@@ -6,7 +6,8 @@ title: ProgrammeNotes
 imageurl:
   - "/img/apps/ProgrammeNotes/programmenotes.fw.png"
 tags:
-  - Hackathon Prototype; Rich media
+  - Hackathon Prototype
+  - Rich media
 links:
   - http://popcorn.webmadecontent.org/je9
 ---

@@ -6,7 +6,8 @@ title: Europeana Banana
 imageurl:
   - "/img/apps/Europeana%20Banana/Europeana%20banana.fw.png"
 tags:
-  - Hackathon Prototype; Enriching metadata
+  - Hackathon Prototype
+  - Enriching metadata
 links:
 ---
 

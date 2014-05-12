@@ -6,7 +6,8 @@ title: MuseumVille
 imageurl:
   - "/img/apps/MuseumVille/museumVille.png"
 tags:
-  - Hackathon Prototype; Game
+  - Hackathon Prototype
+  - Game
 links:
   - http://www.youtube.com/watch?v=HySnGLJgG6g&feature=youtu.be
   - http://www.slideshare.net/seoism/presentation-of-museumville-at-hack4europe-8429998

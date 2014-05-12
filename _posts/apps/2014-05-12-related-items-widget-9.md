@@ -6,7 +6,8 @@ title: Related items widget
 imageurl:
   - "/img/apps/related-items-widget/Related_items_widget.jpg"
 tags:
-  - API Implementation; Search
+  - API Implementation
+  - Search
 links:
   - http://www.wbc.poznan.pl/dlibra/docmetadata?id=1382&from=pubstats
 ---

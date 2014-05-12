@@ -6,7 +6,9 @@ title: Casual Curator
 imageurl:
   - "/img/apps/Casual%20Curator/casual_curator.jpg"
 tags:
-  - Hackathon Prototype; Curation; Mobile
+  - Hackathon Prototype
+  - Curation
+  - Mobile
 links:
 ---
 

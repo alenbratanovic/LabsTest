@@ -5,9 +5,10 @@ permalink: /apps/europeana-geo-search
 title: Europeana Geo Search
 imageurl:
   - "/img/apps/Europeana%20Geo%20Search/Europeana%20Geo%20Search.jpg"
-  - ""
 tags:
-  - Hackathon Prototype; Search; Geolocation
+  - Hackathon Prototype
+  - Search
+  - Geolocation
 links:
   - http://amercader.net/dev/geoeuropeana/
   - https://github.com/amercader/geoeuropeana

@@ -6,7 +6,9 @@ title: The Culture Center (TCC)
 imageurl:
   - "/img/apps/The%20Culture%20Center%20(TCC)/TCC.fw.png"
 tags:
-  - Hackathon Prototype; Search; Mobile
+  - Hackathon Prototype
+  - Search
+  - Mobile
 links:
   - https://build.phonegap.com/apps/126690
   - https://bitbucket.org/greenbox/tcc-project

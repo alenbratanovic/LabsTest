@@ -6,7 +6,10 @@ title: Europeana Layar
 imageurl:
   - "/img/apps/Europeana%20Layar/Europeana%20Layar.png"
 tags:
-  - Hackathon Prototype; Geolocation; Augmented Reality; Mobile
+  - Hackathon Prototype
+  - Geolocation
+  - Augmented Reality
+  - Mobile
 links:
   - https://code.google.com/p/porpoise/
 ---

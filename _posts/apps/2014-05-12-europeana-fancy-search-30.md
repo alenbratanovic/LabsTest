@@ -6,7 +6,9 @@ title: Europeana Fancy Search
 imageurl:
   - "/img/apps/Europeana%20Fancy%20Search/europeana_fancy_search.png"
 tags:
-  - Hackathon Prototype; CMS plugin; Search
+  - Hackathon Prototype
+  - CMS plugin
+  - Search
 links:
   - http://www.youtube.com/watch?v=W9a6NASUulA&feature=player_embedded
 ---

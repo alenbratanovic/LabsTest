@@ -8,7 +8,8 @@ imageurl:
   - "/img/apps/national-library-of-ireland-catalogue-widget/National_Library_of_Ireland_2.jpg"
   - "/img/apps/national-library-of-ireland-catalogue-widget/National_Library_of_Ireland_3.jpg"
 tags:
-  - API Implementation; Search
+  - API Implementation
+  - Search
 links:
   - http://catalogue.nli.ie/Search/Results?lookfor=aran+islands&type=AllFields&filter[]=digitised%3A%22Digitised%22&view=grid
 ---

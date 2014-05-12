@@ -7,7 +7,8 @@ imageurl:
   - "/img/apps/wandora-europeana-extractor/Wandora.png"
   - "/img/apps/wandora-europeana-extractor/Wandora_2.png"
 tags:
-  - API Implementation; Metadata enrichment
+  - API Implementation
+  - Metadata enrichment
 links:
   - http://www.wandora.org/wiki/Download
 ---

@@ -6,7 +6,8 @@ title: Image Form Query Suggestions
 imageurl:
   - "/img/apps/Image%20Form%20Query%20Suggestions/Image_Form_Query_Suggestions.jpg"
 tags:
-  - Hackathon Prototype; Search
+  - Hackathon Prototype
+  - Search
 links:
   - https://github.com/diegoceccarelli/hackathon
 ---

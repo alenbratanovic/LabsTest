@@ -6,7 +6,8 @@ title: Europeana Portfolio
 imageurl:
   - "/img/apps/Europeana%20Portfolio/europeana_portfolio.png"
 tags:
-  - Hackathon Prototype; Linked Open Data
+  - Hackathon Prototype
+  - Linked Open Data
 links:
   - http://ebner.wordpress.com/2011/09/25/turning-europeana-into-a-source-for-educational-content/
 ---

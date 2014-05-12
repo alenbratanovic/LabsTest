@@ -6,7 +6,8 @@ title: Cultured Canvas
 imageurl:
   - "/img/apps/Cultured%20Canvas/cultured_canvas.fw.png"
 tags:
-  - Hackathon Prototype; Social media
+  - Hackathon Prototype
+  - Social media
 links:
 ---
 

@@ -6,7 +6,8 @@ title: Django Europeana 0.1.5
 imageurl:
   - "/img/apps/django-europeana/Phyton_Django.jpg"
 tags:
-  - API Implementation; Client library
+  - API Implementation
+  - Client library
 links:
   - https://pypi.python.org/pypi/django-europeana
   - https://github.com/justinasjaronis/django-europeana

@@ -7,7 +7,8 @@ imageurl:
   - "/img/apps/pionier/PIONIER.jpg"
   - "/img/apps/pionier/PIONIER_2.jpg"
 tags:
-  - API Implementation; Search
+  - API Implementation
+  - Search
 links:
   - http://fbc.pionier.net.pl/owoc/results?query=chopin&action=DistributedSearchAction
 ---

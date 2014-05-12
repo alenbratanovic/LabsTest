@@ -6,7 +6,8 @@ title: Art Color Bits
 imageurl:
   - "/img/apps/Art%20Color%20Bits/art_color.fw.png"
 tags:
-  - Hackathon Prototype; Visualisation
+  - Hackathon Prototype
+  - Visualisation
 links:
   - https://github.com/victordiaz/color-art-bits-
 ---

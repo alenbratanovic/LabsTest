@@ -7,7 +7,9 @@ imageurl:
   - "/img/apps/vufind/Vufind.jpg"
   - "/img/apps/vufind/Vufind_2.jpg"
 tags:
-  - API Implementation; CMS plugin; Search
+  - API Implementation
+  - CMS plugin
+  - Search
 links:
   - http://vufind.org/
   - https://vufind.org/jira/browse/VUFIND-444
