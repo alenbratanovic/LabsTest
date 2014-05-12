@@ -10,6 +10,7 @@ tags:
   - Game
   - Geolocation
 links:
+  - 
 ---
 
 Winner in the category 'Most innovative app' at Hack4Europe '11 - Poland.

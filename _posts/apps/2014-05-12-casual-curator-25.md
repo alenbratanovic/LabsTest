@@ -10,6 +10,7 @@ tags:
   - Curation
   - Mobile
 links:
+  - 
 ---
 
 Winner in the category 'Social Inclusion' at Hack4Europe '11 - UK. Finalist at the Digital Agenda Assembly, June 2011, Brussels.

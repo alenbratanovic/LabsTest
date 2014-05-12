@@ -10,6 +10,7 @@ tags:
   - API Implementation
   - Visualisation
 links:
+  - 
 ---
 
 Visual Chronology is a sketch displaying Europeana search results on a timeline. At the bottom of the screen, years are represented by dots.
