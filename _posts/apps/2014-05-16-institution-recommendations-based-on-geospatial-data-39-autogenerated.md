@@ -11,6 +11,8 @@ tags:
   - Mobile
 links:
   - http://prezi.com/mzmgzfcnnjdr/monguz-prototype-4-hackaton/
+contact: 
+  name: "Istvan Nagy"
 ---
 
 Winner in the category 'Greatest Commercial Potential' and the category 'Developers' Pick' (together with 'Art Seeker') at Hack4Europe '11 - Poland. The prototype is a mobile web application which recommends Europeana content providers near to a user's location (based on his/her current GPS coordinates) and shows their content on Europeana. 

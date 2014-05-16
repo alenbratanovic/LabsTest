@@ -11,6 +11,8 @@ tags:
   - Metadata enrichment
 links:
   - http://www.wandora.org/wiki/Download
+contact: 
+  name: ""
 ---
 
 Wandora is a general purpose information extraction, management and publishing application based on Topic Maps and Java.

@@ -10,6 +10,8 @@ tags:
   - Visualisation
 links:
   - https://github.com/victordiaz/color-art-bits-
+contact: 
+  name: "Victor Diaz (@biquillo) and Sergio Galan (@sergioeclectico)"
 ---
 
 Art Color Bits introduces an innovative way of browsing painters' works by colours.

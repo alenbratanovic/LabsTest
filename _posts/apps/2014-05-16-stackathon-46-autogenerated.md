@@ -11,6 +11,8 @@ tags:
   - Curation
 links:
   - http://artspot.eu/stackathon
+contact: 
+  name: "Wouter Aerts (@WouterAerts), Mehmed Celik (@celikbe), Senne Van Den Bogaert (@sennevdb)"
 ---
 
 Winner in the category 'Greatest commercial potential' at Hack4Europe '12 - Belgium. Finalist at the Digital Agenda Assembly, June 2012, Brussels.

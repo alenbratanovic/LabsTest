@@ -11,6 +11,8 @@ tags:
   - Search
 links:
   - http://hack4europe.kbresearch.nl/
+contact: 
+  name: "Clemens Neudecker, René van der Ark, (both from National Library of Netherlands)"
 ---
 
 Winner in the category 'Developers' Pick' at Hack4Europe '12 - Belgium. The Portal Thingy is a prototype search portal which offers users the chance to enrich Europeana metadata.

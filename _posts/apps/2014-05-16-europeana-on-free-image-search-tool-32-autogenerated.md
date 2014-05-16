@@ -10,6 +10,8 @@ tags:
   - Search
 links:
   - http://toolserver.org/~prolineserver/fist.php
+contact: 
+  name: "Johan Jönsson (@WikimediaSE)"
 ---
 
 The prototype is a further development of the Free Image Search Tool (FIST), a tool to help illustrate articles on Wikipedia.

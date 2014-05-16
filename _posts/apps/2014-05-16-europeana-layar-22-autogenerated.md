@@ -12,6 +12,8 @@ tags:
   - Mobile
 links:
   - https://code.google.com/p/porpoise/
+contact: 
+  name: "David A. Lareo (@bcultura)"
 ---
 
 The prototype allows the user to view Europeana geo-enabled items in an augmented reality mode on Layar compatible devices.

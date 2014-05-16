@@ -10,6 +10,8 @@ tags:
   - Game
 links:
   - 
+contact: 
+  name: "Bartosz Indycki and Dariusz Walczak"
 ---
 
 A simple educational application for kids and adults based on well-known memory games.

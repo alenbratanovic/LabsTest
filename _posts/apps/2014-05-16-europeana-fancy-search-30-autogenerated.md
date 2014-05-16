@@ -11,6 +11,8 @@ tags:
   - Search
 links:
   - http://www.youtube.com/watch?v=W9a6NASUulA&feature=player_embedded
+contact: 
+  name: "Mark Lindeman and Mark van Duijker"
 ---
 
 Fancy Search is a Europeana Search API component prototype for Joomla 1.6.

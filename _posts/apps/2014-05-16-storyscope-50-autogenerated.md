@@ -14,6 +14,8 @@ links:
   - http://vimeo.com/storyscope
   - http://www.decipher-research.eu/
   - http://pro.europeana.eu/web/guest/pro-blog/-/blogs/what-is-the-scope-of-your-story?
+contact: 
+  name: "Developed by Cormac Farrell (DIT), Dermot Frost (TCD) Damien Gallagher (NUIM), Natalie Harrower (RIA), Mark Maguire (IMMA), Paula McGloin (DIT), Jimmy Tang (TCD), and James Wogan (DIT)."
 ---
 
 The software includes an attractive visual interface that allows users to not only collect and arrange online objects, but to shape these collections into compelling narratives.

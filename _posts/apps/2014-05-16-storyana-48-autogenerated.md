@@ -10,6 +10,8 @@ tags:
   - Storytelling
 links:
   - http://paths.sheffield.ac.uk/storyana
+contact: 
+  name: "Mark Hall from University of Sheffield"
 ---
 
 Winner in the category 'Most innovative app.' at Hack4Europe '12 - Belgium. Storyana is a novel interface for exploring Europeana's vast and interesting collections through short stories.

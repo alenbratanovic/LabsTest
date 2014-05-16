@@ -11,6 +11,8 @@ tags:
   - Visualisation
 links:
   - 
+contact: 
+  name: "Bert Balcaen from Rekall Design (@bertbalcaen)"
 ---
 
 Visual Chronology is a sketch displaying Europeana search results on a timeline. At the bottom of the screen, years are represented by dots.

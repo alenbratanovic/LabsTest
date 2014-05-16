@@ -10,6 +10,8 @@ tags:
   - Metadata enrichment
 links:
   - 
+contact: 
+  name: "Jaap Blom from Beeld en Geluid and Victor de Boer from VU Amsterdam"
 ---
 
 Semantic enrichment game

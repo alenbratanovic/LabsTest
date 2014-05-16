@@ -9,6 +9,8 @@ tags:
   - API Implementation
 links:
   - http://ccgi.ottevanger.plus.com/cgi-bin/ez/
+contact: 
+  name: "Jeremy Ottevanger "
 ---
 
 It uses semantic extraction (through two commercial APIs - Zemanta and Yahoo) to create keywords representing places, people, subjects and periods. It then queries a number of different museum APIs and displays the results as an image slide. 

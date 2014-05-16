@@ -11,6 +11,8 @@ tags:
 links:
   - http://www.artspace.deseostudio.com/
   - https://bitbucket.org/greenbox/tcc-project
+contact: 
+  name: "Agata Dziekan and Marek Sredniawa"
 ---
 
 ArtSpace promotes access to art in everyday situations i.e. Europeana collections can be made available in public places such as coffee shops, libraries, schools and hotels.

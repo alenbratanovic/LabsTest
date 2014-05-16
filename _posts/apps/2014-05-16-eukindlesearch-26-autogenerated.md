@@ -11,6 +11,8 @@ tags:
   - Mobile
 links:
   - http://europeana.culturegridne.com/euKindleSearch_results.mobi
+contact: 
+  name: "Mike Hirst"
 ---
 
 euKindleSearch easily produces e-books for the Amazon Kindle based on searches in the Europeana collections. Winner in the category 'Greatest Commercial Potential' at Hack4Europe '11 - UK.

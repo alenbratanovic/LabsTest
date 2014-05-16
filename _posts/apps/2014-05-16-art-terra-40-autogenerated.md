@@ -10,6 +10,8 @@ tags:
   - Geolocation
 links:
   - 
+contact: 
+  name: "Krzysztof Figaj, Szymon Janikowski, Paweł Gilewski"
 ---
 
 Winner in the category 'Social inclusion' at Hack4Europe '11 - Poland.

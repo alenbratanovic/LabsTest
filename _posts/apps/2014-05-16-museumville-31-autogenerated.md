@@ -12,6 +12,8 @@ links:
   - http://www.youtube.com/watch?v=HySnGLJgG6g&feature=youtu.be
   - http://www.slideshare.net/seoism/presentation-of-museumville-at-hack4europe-8429998
   - https://github.com/bogusjourney/museumville
+contact: 
+  name: "Emil Stenström (@emilstenstrom), Jens Tinfors (@jensa), Jonas Beckman (@jonasbeckman), Niklas Lindström (@niklasl), Tomas Seo (@seoism)"
 ---
 
 This prototype has been inspired by the addictive Facebook game Farmville.

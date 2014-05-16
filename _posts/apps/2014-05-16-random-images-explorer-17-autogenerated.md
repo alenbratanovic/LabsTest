@@ -10,6 +10,10 @@ tags:
   - Metadata enrichment
 links:
   - 
+contact: 
+  name: "Willem Jan Faber from the National Library of the Netherlands
+
+Willem-Jan_Faber@Fe2.nl"
 ---
 
 Semantic enrichment game. 1st Hackathon 2011.

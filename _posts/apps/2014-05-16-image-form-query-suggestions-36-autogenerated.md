@@ -10,6 +10,8 @@ tags:
   - Search
 links:
   - https://github.com/diegoceccarelli/hackathon
+contact: 
+  name: "Diego Ceccarelli from ISTI CNR and Hugo Huurdeman from Timeless Future"
 ---
 
 Building on an analysis of user behaviour ,this prototype gives users suggestions related to their intitial search query.

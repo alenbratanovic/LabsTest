@@ -12,6 +12,8 @@ tags:
 links:
   - https://build.phonegap.com/apps/126690
   - https://bitbucket.org/greenbox/tcc-project
+contact: 
+  name: "Ronalds Sovas, sovas@greenbox.lv"
 ---
 
 The prototype was developed using the Europeana API and YQL (Yahoo Query language) to build a quick and powerful culture information search tool.

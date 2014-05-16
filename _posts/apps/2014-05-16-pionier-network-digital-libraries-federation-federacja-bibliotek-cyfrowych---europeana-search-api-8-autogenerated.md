@@ -11,6 +11,8 @@ tags:
   - Search
 links:
   - http://fbc.pionier.net.pl/owoc/results?query=chopin&action=DistributedSearchAction
+contact: 
+  name: ""
 ---
 
 Related content from Europeana is shown under the PIONIER Network Digital Libraries Federation search results. As they are a Europeana aggregator, their own objects in Europeana are filtered out of the API responses in order to avoid duplicate hits.

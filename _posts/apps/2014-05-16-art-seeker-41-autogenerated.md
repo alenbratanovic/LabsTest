@@ -10,6 +10,8 @@ tags:
   - Mobile
 links:
   - 
+contact: 
+  name: "Artur Wdowiarski (@ArturWdowiarski), Robert Pogorzelski (@robpog)"
 ---
 
 The prototype is a mobile application for art discovery.

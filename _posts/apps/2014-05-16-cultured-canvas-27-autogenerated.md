@@ -10,6 +10,8 @@ tags:
   - Social media
 links:
   - 
+contact: 
+  name: "Dom Hodgson and Alistair Macdonald"
 ---
 
 Winner in the category 'Most innovative app'  at Hack4Europe '11 - UK Cultured Canvas is an easy way to promote culture to a user's Twitter followers.

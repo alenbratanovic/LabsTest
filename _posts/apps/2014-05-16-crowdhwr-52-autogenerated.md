@@ -11,6 +11,8 @@ tags:
 links:
   - http://rankrasciai.atviriduomenys.lt/word/1/
   - https://bitbucket.org/sirex/crowdhwr
+contact: 
+  name: "Developed by ‘Manuscript' team: Albertas Gimbutas, Justas Sadzevičius and Mantas Zimnickas independent developers from Lithuania"
 ---
 
 Winner in the category ‘Digital Humanities‘ at Hack4LT. Crowdhwr is a crowdsourcing manuscripts' transcription system for digital humanities.

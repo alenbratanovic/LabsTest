@@ -10,6 +10,8 @@ tags:
   - Search
 links:
   - http://www.wbc.poznan.pl/dlibra/docmetadata?id=1382&from=pubstats
+contact: 
+  name: ""
 ---
 
 The PIONIER Network Digital Libraries Federation have a related items widget that uses the Google Translate API to translate keywords to other languages before sending them to the Europeana API.

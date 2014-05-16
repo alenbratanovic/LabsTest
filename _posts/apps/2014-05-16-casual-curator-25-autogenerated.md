@@ -11,6 +11,14 @@ tags:
   - Mobile
 links:
   - 
+contact: 
+  name: "Mike Stapleton, Systems Simulation Ltd. Mike@ssl.co.uk
+
+Mike Selway, Systems Simulation Ltd. mas@ssl.co.uk
+
+Eoin Kilfeather, Dublin Institute of Technology ekilfeathe@dmc.dit.ie
+
+"
 ---
 
 Winner in the category 'Social Inclusion' at Hack4Europe '11 - UK. Finalist at the Digital Agenda Assembly, June 2011, Brussels.

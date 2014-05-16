@@ -13,6 +13,8 @@ tags:
 links:
   - http://vufind.org/
   - https://vufind.org/jira/browse/VUFIND-444
+contact: 
+  name: ""
 ---
 
 VuFind is an Open Source discovery interface for digital libraries used by a large number of institutions.

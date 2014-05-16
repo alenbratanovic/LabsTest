@@ -11,6 +11,8 @@ tags:
 links:
   - https://pypi.python.org/pypi/django-europeana
   - https://github.com/justinasjaronis/django-europeana
+contact: 
+  name: "Justinas Jaronis, Inga Pliavgo, Ignas Bacius, Mykolas Baranauskas from the Lithuanian IT company AKS"
 ---
 
 This is a client library for Django, the free and open source web framework written in Python.

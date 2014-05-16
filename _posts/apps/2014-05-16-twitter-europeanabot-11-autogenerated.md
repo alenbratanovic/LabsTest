@@ -11,6 +11,8 @@ tags:
 links:
   - https://twitter.com/EuropeanaBot
   - https://github.com/hatorikibble/twitter-europeanabot
+contact: 
+  name: ""
 ---
 
 Inspired by the DPLABot, this implementation uses Europeana API to present semi-random images from Europeana collections on Twitter.

@@ -12,6 +12,8 @@ tags:
 links:
   - http://cultureglobe.de/
   - http://www.youtube.com/watch?v=H_2pOU1FO6k
+contact: 
+  name: ""
 ---
 
 eTech Hackathon 2011 winner Culture Globe allows users to navigate through Europeana content on an interactive globe and timeline.

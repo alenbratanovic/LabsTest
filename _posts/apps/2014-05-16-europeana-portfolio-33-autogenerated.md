@@ -10,6 +10,8 @@ tags:
   - Linked Open Data
 links:
   - http://ebner.wordpress.com/2011/09/25/turning-europeana-into-a-source-for-educational-content/
+contact: 
+  name: "Hannes Ebner (@electricbum) and Mathias Palmér"
 ---
 
 The prototype is based on a combination of SCAM framework (EntryStore) and Confolio (EntryScape) and allows the creation of online learning resources using Europeana metadata.

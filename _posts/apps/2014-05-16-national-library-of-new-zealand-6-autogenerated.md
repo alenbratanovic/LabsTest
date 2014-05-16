@@ -12,6 +12,8 @@ tags:
   - Search
 links:
   - http://digitalnz.org/
+contact: 
+  name: ""
 ---
 
 The digital service of the National Library of New Zealand - Digital New Zealand (DigitalNZ) - uses the Europeana API (1.0) to harvest and locally store New Zealand-related Europeana records in their own aggregation.

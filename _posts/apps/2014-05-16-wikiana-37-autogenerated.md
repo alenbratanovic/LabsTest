@@ -9,6 +9,8 @@ tags:
   - Hackathon Prototype
 links:
   - http://paths.sheffield.ac.uk/storyana/
+contact: 
+  name: "Wikipedia MashUp (Team Awesome), Mark Hall from University of Sheffield, Oier Lopez de Lacalle from University of the Basque Country, and Aitor Soroa from University of the Basque Country"
 ---
 
 The Wikiana prototype (redeveloped as Storyana at a later hackathon) combines Wikipedia with the data available in Europeana.

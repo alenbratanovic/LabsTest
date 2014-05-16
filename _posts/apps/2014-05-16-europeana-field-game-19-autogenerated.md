@@ -11,6 +11,8 @@ tags:
   - Geolocation
 links:
   - 
+contact: 
+  name: "Piotr Kaleta and Zbigniew Tenerowicz"
 ---
 
 Winner in the category 'Most innovative app' at Hack4Europe '11 - Poland.

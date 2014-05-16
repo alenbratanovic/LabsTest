@@ -12,6 +12,8 @@ tags:
   - Search
 links:
   - http://catalogue.nli.ie/Search/Results?lookfor=aran+islands&type=AllFields&filter[]=digitised%3A%22Digitised%22&view=grid
+contact: 
+  name: ""
 ---
 
 This interface allows simultaneous search of many of the Library's catalogued collections, including digitised material.

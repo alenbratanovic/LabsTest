@@ -11,6 +11,8 @@ tags:
   - Search
 links:
   - http://search.books2ebooks.eu/Record/vkol_vkol000457366
+contact: 
+  name: ""
 ---
 
 Over 6000 books have been digitised via EOD. Through the Europeana API, EOD search results are enriched with relevant Europeana records.
