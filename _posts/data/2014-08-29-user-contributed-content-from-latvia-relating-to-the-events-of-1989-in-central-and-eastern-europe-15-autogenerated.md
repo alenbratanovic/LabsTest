@@ -2,7 +2,7 @@
 layout: data-item
 category: data
 title: "User contributed content from Latvia, relating to the events of 1989 in Central and Eastern Europe."
-permalink: /data/user-contributed-content-from-latvia-relating-to-the-events-of-1989-in-central-and-eastern-europe.
+permalink: /data/user-contributed-content-from-latvia-relating-to-the-events-of-1989-in-central-and-eastern-europe
 provider: Europeana 1989
 description: More than 100 memorabilia and stories from Latvia documenting the political and social changes in Central and Eastern Europe in the year 1989. Provided by Europeana 1989, which is a pan-European project concerning the changes related to what is commonly known as the fall of the Iron Curtain.
 contact: 1989@europeana.eu
